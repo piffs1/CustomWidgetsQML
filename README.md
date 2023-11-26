@@ -22,3 +22,15 @@ CustomCheckbox {
 #### Пример:
 
 ![checkbox](https://github.com/piffs1/CustomWidgetsQML/assets/43949777/cd226a1c-5cb5-436a-8674-e5dcb9a47273)
+
+### GroupElements и StyledButton
+Нахардкодил. Учился. В обычном состоянии желтый цвет, при наведении синий, при нажатии красный
+
+В коде можно объявить:
+```QML
+GroupElements {}
+```
+<b><ins>Не подлежит настраиванию!</b></ins>
+
+![ResultQML1](https://github.com/piffs1/CustomWidgetsQML/assets/43949777/a65fde7a-4ee2-404e-b33d-3fb14f0606d9)
+
