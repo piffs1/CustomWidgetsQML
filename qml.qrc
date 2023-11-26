@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Test.qml</file>
+        <file>TestForm.ui.qml</file>
+        <file>CustomWidgets/AlienCustomWidgets/CheckboxChina.qml</file>
+        <file>CustomWidgets/MyCustomWidgets/CustomCheckbox.qml</file>
+        <file>CustomWidgets/MyCustomWidgets/GroupElements.qml</file>
+        <file>CustomWidgets/MyCustomWidgets/StyledButton.qml</file>
+        <file>images/icons/ButtonIcons/gene.svg</file>
+        <file>images/icons/ButtonIcons/genetic.svg</file>
+        <file>images/icons/ButtonIcons/helix.svg</file>
+        <file>images/icons/ButtonIcons/iconHome.svg</file>
+        <file>images/icons/ButtonIcons/nucleus.svg</file>
+        <file>images/icons/ButtonIcons/organic.svg</file>
+        <file>images/icons/WeatherIcons/snow.svg</file>
+        <file>images/icons/WeatherIcons/sunny.svg</file>
+        <file>images/icons/WeatherIcons/sunny_cloudy.svg</file>
+        <file>images/icons/WeatherIcons/sunny_rain.svg</file>
+        <file>SomeFiles/constants.qml</file>
+        <file>Tasks/MovingBox.qml</file>
+        <file>Tasks/PROPERTIES.qml</file>
+        <file>Tasks/SomeOtherFile.qml</file>
+    </qresource>
+</RCC>
